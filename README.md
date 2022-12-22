@@ -1,25 +1,26 @@
-<h1 align="center">Zero YT7 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
-<p align="center">
-<img src="https://i.ibb.co/DbfJj4h/20220206-165210.jpg" />
+<h1 align="center">ximus-Q76
+
+
+
 </p>
 
 <p align="center">
 
-- 👼 My name is Zero YT7
+- 👼 My name is ximus-Q76
 
-- 🗣️ I am 19 years old 
+- 🗣️ I am 14 years old 
 
 - 🔭 I am Not programmer
  
-- 😎 I am like Wibu
+- 😎 I am like minecraft
 </p>
 
 ------
 
-# ```BASE SC ZERO YT7```
+# ```BASE SC ximus-Q76```
 <p align="center">
-<a href="https://github.com/Zero-YT7/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zero-YT7?color=red&style=flat-square"></a>
-<a href="https://github.com/Zero-YT7/BaseMD-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/BaseMD-ZeroYT7?color=blue&style=flat-square"></a>
+<a href="https://github.com/ximus-Q76/followers"><img title="Followers" src="https://img.shields.io/github/followers/Zero-YT7?color=red&style=flat-square"></a>
+<a href="https://github.com/ximus-Q76/BaseMD-ZeroYT7/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Zero-YT7/BaseMD-ZeroYT7?color=blue&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/BaseMD-ZeroYT7/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Zero-YT7/BaseMD-ZeroYT7?color=red&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/BaseMD-ZeroYT7/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Zero-YT7/BaseMD-ZeroYT7?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Zero-YT7/BaseMD-ZeroYT7"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
@@ -34,26 +35,25 @@
 
 ## ```FOLLOW ALL SOSIALMEDIA ME```
 <p align="center">
-<a href="https://instagram.com/Zero_YT7"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285157740529"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/ZeroYT7"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
-<a href="https://tiktok.com/@_zeroyt7"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
+<a href="https://instagram.com/minecraftr.159"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+<a href="https://wa.me/628159907432"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube Zero YT7-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/ZeroYT7" /><br>
+<a href="https://tiktok.com/@_"><img src="https://img.shields.io/badge/Tiktok Zero YT7-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@zeroyt7" /></a>
 </p>
 
 ## ```SETTING```
 
-- Owner number [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/blob/master/options/config.js#L44)
-- Owner name [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/blob/master/options/config.js#L47)
-- Botname [Here](https://github.com/Zero-YT7/BaseMD-ZeroYT7/blob/master/options/config.js#L46)
+- Owner number [Here](https://github.com/ximus-Q76/BaseMD-ZeroYT7/blob/master/options/config.js#L44)
+- Owner name [Here](https://github.com/ximus-Q76/BaseMD-ZeroYT7/blob/master/options/config.js#L47)
+- Botname [Here](https://github.com/ximus-Q76/BaseMD-ZeroYT7/blob/master/options/config.js#L46)
 
 ## ```DONASI```
 
-- [`SAWERIA`](https://saweria.co/ZeroYT7)
-- [`SOCIABUZZ`](https://sociabuzz.com/zeroyt7/tribe)
+- [`𝚅𝙸𝙰 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿`]085159907432
 
 ## ```GROUP BOT```
 
-- [`GROUP WA`](https://chat.whatsapp.com/BM0HVJKYR2BI8JJUlQO2ue)
+- [`GROUP WA`]https://chat.whatsapp.com/FQRhZfaUQoa2z9WMKZqMl2
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -71,15 +71,15 @@ pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
 pkg install bash
-git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
+git clone https://github.com/ximus-Q76/BaseMD-.git
 cd BaseMD-ZeroYT7
 npm install
 npm start
 ```
 ## For Windows
 ```bash
-git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd BaseMD-ZeroYT7
+git clone https://github.com/ximus-Q76/BaseMD-ximus-Q76.git
+cd BaseMD-ximus-Q76
 npm install
 npm start
 ```
@@ -91,20 +91,16 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagemagick
 apt install bash
-git clone https://github.com/Zero-YT7/BaseMD-ZeroYT7.git
-cd BaseMD-ZeroYT7
+git clone https://github.com/ximus-Q76/BaseMD-ximus-Q76.git
+cd BaseMD-ximus-Q76
 npm install
 npm start
 ```
 
 ## Big Thanks To
  ```
-• Zero YT7
-• Dhika Ardhiant
-• Mhankbarbar
-• Chaliph
+• XtawVBotz
 • Allah S.W.T
 • Ortu
-• All Subscriber Ku
 • All Creator Bot
 ```
