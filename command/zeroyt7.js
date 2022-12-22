@@ -1,11 +1,9 @@
 /* My Info
-* New Base Multi Device By Zero YT7
+* New Base Multi Device ximus-Q76
 * Please Follow Me On All Sosial Media
-* Instagram : https://instagram.com/Zero_YT7
-* Tiktok : https://tiktok.com/@_zeroyt7
-* Github : https://github.com/Zero-YT7
-* Youtube : https://youtube.com/ZeroYT7
-* Contact Me on wa.me/6285157740529
+* Instagram : https://instagram.com/minecraftr.159
+* Github : https://github.com/XtawVBotz
+* Contact Me on wa.me/6285159907432
 */
 
 /* My Web
@@ -14,14 +12,9 @@
 */
 
 /* Thanks To
-* Zero YT7
-* Dhika Ardiant
-* Mhankbarbar
-* Chaliph
 * Allah S.W.T
 * Ortu
 * All Creator Bot
-* All Subscriber Ku
 */
 
 require('../options/config')
